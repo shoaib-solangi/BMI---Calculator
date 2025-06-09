@@ -1,6 +1,6 @@
 # BMI Calculator
 
-![BMI Calculator Screenshot](./bmi.png) 
+![BMI Calculator Screenshot](./bmi.PNG) 
 
 A responsive web application that calculates Body Mass Index (BMI) with visual feedback. Built with pure HTML, CSS, and JavaScript.
 
